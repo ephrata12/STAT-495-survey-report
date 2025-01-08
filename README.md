@@ -1,4 +1,4 @@
-# STAT-495-Survey-Report
+# STAT-495-Advanced-Data-Analysis-Survey-Report
 
 Project Data Acumen was conducted in the fall of 2024 as part of STAT 495 to assess the Statistics proficiency of students in the class. The project seeks to evaluate students’ experience and confidence across 58 distinct measures of data acumen, spanning critical areas such as mathematical skills, statistical knowledge, computational expertise, and data visualization techniques, among other key dimensions of data competency. 
 
