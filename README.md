@@ -14,4 +14,4 @@ This project was a collaborative effort by the following individuals:
 
 - **Ephrata Getachew**  
 - **Lucas Bernstein**  
-- **Shreya Mathew**
+- **Shreya Susan Mathew**
