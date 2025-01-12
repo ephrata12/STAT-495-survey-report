@@ -1,12 +1,22 @@
-# STAT-495-Advanced-Data-Analysis-Survey-Report
+# STAT 495: Exploring Data Acumen in Advanced Statistics Students
 
-Project Data Acumen was conducted in the fall of 2024 as part of STAT 495 to assess the Statistics proficiency of students in the class. The project seeks to evaluate students’ experience and confidence across 58 distinct measures of data acumen, spanning critical areas such as mathematical skills, statistical knowledge, computational expertise, and data visualization techniques, among other key dimensions of data competency. 
+## Project Overview
+This project analyzes self-reported confidence and experience in data acumen among STAT 495 students. By examining responses across 58 distinct measures, it identifies patterns, gaps, and areas for improvement in students' statistical proficiency. The findings aim to inform curriculum development and foster a balanced learning environment.
 
-The collected data was then wrangled and subjected to various analyses to identify trends and patterns in students’ reporting. The project aims to answer three central questions: 
+## Key Research Questions
+1. **Alignment in Confidence Across Topics**: How do students’ self-reported confidence levels align across topics, and what patterns of agreement or disagreement emerge?
+2. **Experience vs. Confidence Gaps**: Where do gaps exist between students’ experience and confidence, and which variables show the largest discrepancies?
+3. **Goals and Interests**: What are the most common goals and interests among STAT 495 students?
 
-1) **Cohen’s Kappa Correlation**: What is the correlation between students’ agreement on various topics related to data acumen?
-2) **Experience and Confidence Gaps**: Which areas of data acumen do students feel least confident in, and where are the largest gaps in expertise?
-3) **Common Goals and Interests**: What are the most common goals and areas of interest among STAT 495 students in relation to data proficiency?
+## Dataset
+- **Respondents**: 18 STAT 495 students.
+- **Questions**: 58 categorical measures of confidence and experience, plus 2 open-ended questions on goals and interests.
+- **Response Options**: 
+  - Unfamiliar
+  - Some experience / Low confidence
+  - Some experience / Fairly confident
+  - Lots of experience / Low confidence
+  - Lots of experience / Fairly confident
 
 ## Collaborators
 
