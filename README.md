@@ -22,6 +22,6 @@ This project analyzes self-reported confidence and experience in data acumen amo
 
 This project was a collaborative effort by the following individuals:
 
-- **Ephrata Getachew**  
-- **Lucas Bernstein**  
-- **Shreya Susan Mathew**
+- Ephrata Getachew 
+- Lucas Bernstein
+- Shreya Susan Mathew
